@@ -79,7 +79,7 @@ require (
 	github.com/hashicorp/nomad/api v0.0.0-20220407202126-2eba643965c4
 	github.com/hashicorp/raft v1.3.5
 	github.com/hashicorp/raft-boltdb/v2 v2.2.0
-	github.com/hashicorp/serf v0.9.7
+	github.com/hashicorp/serf v0.9.8
 	github.com/hashicorp/vault/api v1.4.1
 	github.com/hashicorp/vault/sdk v0.4.1
 	github.com/hashicorp/yamux v0.0.0-20211028200310-0bc27b27de87
